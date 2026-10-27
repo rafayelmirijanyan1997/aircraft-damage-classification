@@ -42,7 +42,7 @@ For captioning, `BlipCaptionSummaryLayer` subclasses `tf.keras.layers.Layer` and
 ## Run it
 
 ```bash
-git clone https://github.com/<your-username>/aircraft-damage-classification.git
+git clone https://github.com/<rafayelmirijanyan1997>/aircraft-damage-classification.git
 cd aircraft-damage-classification
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
